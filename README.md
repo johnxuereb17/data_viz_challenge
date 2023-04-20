@@ -11,4 +11,6 @@ how to use the agg() function: https://stackoverflow.com/questions/60604655/usin
 
 a reminder of autopct: https://stackoverflow.com/questions/38337918/plot-pie-chart-and-table-of-pandas-dataframe
 
+code that helped me with formatting dataframes for the box plot: https://github.com/redeat17/Matplotlib-Challenge/blob/master/pymaceuticals_starter.ipynb
+
 matplotlib documentation: https://matplotlib.org/stable/tutorials/introductory/quick_start.html
