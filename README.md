@@ -10,3 +10,5 @@ a cheat sheet for most of the basic commands/functions in Pandas: https://pandas
 how to use the agg() function: https://stackoverflow.com/questions/60604655/using-agg-with-multi-index-in-pandas
 
 a reminder of autopct: https://stackoverflow.com/questions/38337918/plot-pie-chart-and-table-of-pandas-dataframe
+
+matplotlib documentation: https://matplotlib.org/stable/tutorials/introductory/quick_start.html
